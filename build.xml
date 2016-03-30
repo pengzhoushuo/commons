@@ -4,7 +4,7 @@
 
 <!-- properies -->
 
-<property name="package.dir" value="commons_2013_8_08.jar" />
+<property name="package.dir" value="commons_3.0.jar" />
 
 <property name="src.dir" value="src" />
 
