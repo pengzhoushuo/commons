@@ -1,0 +1,5 @@
+Testsuite: com.upeng.commons.test.net.CookieTestCase
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testGetKey took 0 sec
+Testcase: testFromStr took 0 sec

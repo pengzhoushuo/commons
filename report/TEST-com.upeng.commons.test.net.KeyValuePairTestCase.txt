@@ -1,0 +1,6 @@
+Testsuite: com.upeng.commons.test.net.KeyValuePairTestCase
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.016 sec
+
+Testcase: testKeyValuePair took 0 sec
+Testcase: testKeyValuePairStringString took 0 sec
+Testcase: testFormString took 0 sec

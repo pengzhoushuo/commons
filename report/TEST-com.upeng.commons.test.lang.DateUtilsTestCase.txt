@@ -1,0 +1,16 @@
+Testsuite: com.upeng.commons.test.lang.DateUtilsTestCase
+Tests run: 13, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testAdd took 0 sec
+Testcase: testAddYear took 0 sec
+Testcase: testAddMonth took 0 sec
+Testcase: testAddDate took 0 sec
+Testcase: testAddHour took 0 sec
+Testcase: testAddMinute took 0 sec
+Testcase: testAddSecond took 0 sec
+Testcase: testToCalendar took 0 sec
+Testcase: testToDateCalendar took 0 sec
+Testcase: testBuildDateIntIntInt took 0 sec
+Testcase: testBuildDateIntIntIntIntIntInt took 0 sec
+Testcase: testToDateString took 0 sec
+Testcase: testGetOnlyDate took 0 sec

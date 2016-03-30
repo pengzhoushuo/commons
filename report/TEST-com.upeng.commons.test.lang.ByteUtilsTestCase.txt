@@ -1,0 +1,7 @@
+Testsuite: com.upeng.commons.test.lang.ByteUtilsTestCase
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testToBytesStringString took 0 sec
+Testcase: testToBytesString took 0 sec
+Testcase: testToBytesStringBuilderString took 0 sec
+Testcase: testToBytesStringBuilder took 0 sec

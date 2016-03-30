@@ -1,0 +1,7 @@
+Testsuite: com.upeng.commons.test.beans.ExpressionUtilsTestCase
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testExecuteMethod took 0 sec
+Testcase: testGetFieldValue took 0 sec
+Testcase: testSetFieldValueObjectStringObject took 0 sec
+Testcase: testSetFieldValueObjectFieldObject took 0 sec

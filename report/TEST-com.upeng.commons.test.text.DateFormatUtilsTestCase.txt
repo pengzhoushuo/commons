@@ -1,0 +1,8 @@
+Testsuite: com.upeng.commons.test.text.DateFormatUtilsTestCase
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testFormatDateFormatDateString took 0 sec
+Testcase: testFormatDateFormatDate took 0 sec
+Testcase: testDefaultFormat took 0 sec
+Testcase: testParseDateFormatString took 0 sec
+Testcase: testParseDateFormatStringDate took 0 sec

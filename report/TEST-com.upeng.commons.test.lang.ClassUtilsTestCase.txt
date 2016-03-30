@@ -1,0 +1,12 @@
+Testsuite: com.upeng.commons.test.lang.ClassUtilsTestCase
+Tests run: 9, Failures: 0, Errors: 0, Time elapsed: 0.015 sec
+
+Testcase: testIsSameTypeObjectObject took 0.015 sec
+Testcase: testIsSameTypeClassClass took 0 sec
+Testcase: testGetField took 0 sec
+Testcase: testGetNoStaticNorFinalFieldArray took 0 sec
+Testcase: testGetNoStaticNorFinalFieldList took 0 sec
+Testcase: testGetNoStaticFieldArray took 0 sec
+Testcase: testGetNoStaticFieldList took 0 sec
+Testcase: testGetNoStaticNorFinalField took 0 sec
+Testcase: testIsSystemClass took 0 sec

@@ -1,0 +1,11 @@
+Testsuite: com.upeng.commons.test.lang.AssertTestCase
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testIsTrueBooleanString took 0 sec
+Testcase: testIsTrueBoolean took 0 sec
+Testcase: testIsNullObjectString took 0 sec
+Testcase: testIsNullObject took 0 sec
+Testcase: testNotNullObjectString took 0 sec
+Testcase: testNotNullObject took 0 sec
+Testcase: testHasTextStringString took 0 sec
+Testcase: testHasTextString took 0 sec

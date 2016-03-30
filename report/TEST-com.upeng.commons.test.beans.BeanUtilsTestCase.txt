@@ -1,0 +1,12 @@
+Testsuite: com.upeng.commons.test.beans.BeanUtilsTestCase
+Tests run: 9, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testCopy took 0 sec
+Testcase: testGetSetMethodName took 0 sec
+Testcase: testGetGetMethodName took 0 sec
+Testcase: testInjectStringMapOfStringObject took 0 sec
+Testcase: testInjectClassOfQMapOfStringObject took 0 sec
+Testcase: testInjectObjectMapOfStringObject took 0 sec
+Testcase: testInjectField took 0 sec
+Testcase: testIsBasicType took 0 sec
+Testcase: testValidateNotNullFields took 0 sec

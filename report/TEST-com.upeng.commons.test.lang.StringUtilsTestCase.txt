@@ -1,0 +1,44 @@
+Testsuite: com.upeng.commons.test.lang.StringUtilsTestCase
+Tests run: 38, Failures: 0, Errors: 0, Time elapsed: 0.016 sec
+------------- Standard Output ---------------
+
+------------- ---------------- ---------------
+
+Testcase: testToStringList took 0 sec
+Testcase: testToStringArray took 0 sec
+Testcase: testIsEmpty took 0 sec
+Testcase: testIsNotEmpty took 0 sec
+Testcase: testIsBlank took 0 sec
+Testcase: testIsNotBlank took 0 sec
+Testcase: testIsIntNumString took 0 sec
+Testcase: testIsNumString took 0 sec
+Testcase: testToUppderCase took 0 sec
+Testcase: testToLowerCase took 0 sec
+Testcase: testIsInListStringStringArray took 0 sec
+Testcase: testIsInListStringBooleanStringArray took 0 sec
+Testcase: testStartsWithIgnoreCaseStringString took 0 sec
+Testcase: testStartsWithIgnoreCaseStringStringInt took 0 sec
+Testcase: testStartsWithStringString took 0 sec
+Testcase: testStartsWithStringStringInt took 0 sec
+Testcase: testGetBytes took 0 sec
+Testcase: testToStringInt took 0 sec
+Testcase: testToStringDouble took 0 sec
+Testcase: testToStringFloat took 0 sec
+Testcase: testToStringLong took 0 sec
+Testcase: testToStringBoolean took 0 sec
+Testcase: testToStringChar took 0 sec
+Testcase: testToHexString took 0 sec
+Testcase: testToStringStringString took 0 sec
+Testcase: testContains took 0 sec
+Testcase: testSplitString took 0 sec
+Testcase: testSplitStringCharBoolean took 0 sec
+Testcase: testIsUpperCase took 0 sec
+Testcase: testIsLowerCase took 0 sec
+Testcase: testFirstLetterUpper took 0 sec
+Testcase: testFirstLetterLower took 0 sec
+Testcase: testGetSegments took 0 sec
+Testcase: testSubString took 0 sec
+Testcase: testLength took 0 sec
+Testcase: testOmitString took 0 sec
+Testcase: testSubstringBefore took 0 sec
+Testcase: testSubstringAfter took 0 sec

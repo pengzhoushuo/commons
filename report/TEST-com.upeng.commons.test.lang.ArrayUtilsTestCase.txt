@@ -1,0 +1,24 @@
+Testsuite: com.upeng.commons.test.lang.ArrayUtilsTestCase
+Tests run: 21, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testContact took 0 sec
+Testcase: testToIntArrayIntegerArray took 0 sec
+Testcase: testToIntArrayStringArray took 0 sec
+Testcase: testToDoubleArrayStringArray took 0 sec
+Testcase: testToFloatArrayStringArray took 0 sec
+Testcase: testToShortArrayStringArray took 0 sec
+Testcase: testToLongArrayStringArray took 0 sec
+Testcase: testToByteArrayStringArray took 0 sec
+Testcase: testToBooleanArrayStringArray took 0 sec
+Testcase: testToCharArrayStringArray took 0 sec
+Testcase: testToIntArrayString took 0 sec
+Testcase: testToStringArray took 0 sec
+Testcase: testToDoubleArrayString took 0 sec
+Testcase: testToLongArrayString took 0 sec
+Testcase: testToShortArrayString took 0 sec
+Testcase: testToByteArrayString took 0 sec
+Testcase: testToFloatArrayString took 0 sec
+Testcase: testToBooleanArrayString took 0 sec
+Testcase: testToCharArrayString took 0 sec
+Testcase: testIndexOf took 0 sec
+Testcase: testLastIndexOf took 0 sec

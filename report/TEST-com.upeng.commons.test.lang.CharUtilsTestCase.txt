@@ -1,0 +1,8 @@
+Testsuite: com.upeng.commons.test.lang.CharUtilsTestCase
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testIntArray1 took 0 sec
+Testcase: testIntArray2 took 0 sec
+Testcase: testIntArray3 took 0 sec
+Testcase: testIntArray4 took 0 sec
+Testcase: testToChar took 0 sec

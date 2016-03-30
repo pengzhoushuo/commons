@@ -1,0 +1,7 @@
+Testsuite: com.upeng.commons.test.lang.BooleanUtilsTestCase
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testToBooleanInt took 0 sec
+Testcase: testToBooleanStringBoolean took 0 sec
+Testcase: testToBooleanString took 0 sec
+Testcase: testToBooleanStrict took 0 sec

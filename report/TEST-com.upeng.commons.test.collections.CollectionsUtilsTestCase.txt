@@ -1,0 +1,11 @@
+Testsuite: com.upeng.commons.test.collections.CollectionsUtilsTestCase
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testContact took 0 sec
+Testcase: testSubListListOfObjectIntInt took 0 sec
+Testcase: testSubListListOfObjectInt took 0 sec
+Testcase: testToList took 0 sec
+Testcase: testToStringList took 0 sec
+Testcase: testToIntList took 0 sec
+Testcase: testSubMap took 0 sec
+Testcase: testInList took 0 sec

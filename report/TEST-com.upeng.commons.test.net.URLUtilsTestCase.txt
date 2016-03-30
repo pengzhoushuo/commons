@@ -1,0 +1,11 @@
+Testsuite: com.upeng.commons.test.net.URLUtilsTestCase
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testEncodeStringString took 0 sec
+Testcase: testEncodeString took 0 sec
+Testcase: testDecodeStringString took 0 sec
+Testcase: testDecodeString took 0 sec
+Testcase: testIsUseHttpProtocol took 0 sec
+Testcase: testAbsoluteUrl took 0 sec
+Testcase: testGetParameterValue took 0 sec
+Testcase: testGetKeyValueListFromUrl took 0 sec

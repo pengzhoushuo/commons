@@ -1,0 +1,12 @@
+Testsuite: com.upeng.commons.test.lang.RandomUtilsTestCase
+Tests run: 9, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testGetUUID took 0 sec
+Testcase: testGetUUIDUpperCase took 0 sec
+Testcase: testRandomIntPositiveIntIntInt took 0 sec
+Testcase: testRandomIntPositiveIntInt took 0 sec
+Testcase: testRandomIntPositiveInt took 0 sec
+Testcase: testRandomAlphabetic took 0 sec
+Testcase: testRandomNumeric took 0 sec
+Testcase: testRandomString took 0 sec
+Testcase: testRandom took 0 sec

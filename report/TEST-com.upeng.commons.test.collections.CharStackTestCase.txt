@@ -1,0 +1,7 @@
+Testsuite: com.upeng.commons.test.collections.CharStackTestCase
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testPopUntil took 0 sec
+Testcase: testPopUntil2 took 0 sec
+Testcase: testPopFromLastUntil took 0 sec
+Testcase: testPopFromLastUntil2 took 0 sec

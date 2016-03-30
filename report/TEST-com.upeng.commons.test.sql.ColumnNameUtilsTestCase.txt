@@ -1,0 +1,4 @@
+Testsuite: com.upeng.commons.test.sql.ColumnNameUtilsTestCase
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testToFieldName took 0 sec

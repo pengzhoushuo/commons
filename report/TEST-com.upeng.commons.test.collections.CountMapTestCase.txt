@@ -1,0 +1,5 @@
+Testsuite: com.upeng.commons.test.collections.CountMapTestCase
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testPut took 0 sec
+Testcase: testGet took 0 sec

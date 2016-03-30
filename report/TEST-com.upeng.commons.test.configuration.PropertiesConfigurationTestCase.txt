@@ -1,0 +1,9 @@
+Testsuite: com.upeng.commons.test.configuration.PropertiesConfigurationTestCase
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0.015 sec
+
+Testcase: testSubSet took 0 sec
+Testcase: testKeys took 0 sec
+Testcase: testGetBoolean took 0 sec
+Testcase: testGetNum took 0 sec
+Testcase: testStringArrayAndList took 0.015 sec
+Testcase: testIntgArray took 0 sec

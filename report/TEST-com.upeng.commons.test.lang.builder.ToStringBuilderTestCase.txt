@@ -1,0 +1,8 @@
+Testsuite: com.upeng.commons.test.lang.builder.ToStringBuilderTestCase
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testToStringBuilder took 0 sec
+Testcase: testAppend took 0 sec
+Testcase: testReflectionToString took 0 sec
+Testcase: testToString took 0 sec
+Testcase: testRemoveLastItemIfEqual took 0 sec

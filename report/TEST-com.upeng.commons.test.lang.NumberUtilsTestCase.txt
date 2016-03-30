@@ -1,0 +1,44 @@
+Testsuite: com.upeng.commons.test.lang.NumberUtilsTestCase
+Tests run: 41, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testToIntList took 0 sec
+Testcase: testToIntString took 0 sec
+Testcase: testToIntStringInt took 0 sec
+Testcase: testToIntStrict took 0 sec
+Testcase: testToIntBoolean took 0 sec
+Testcase: testToLongString took 0 sec
+Testcase: testToLongStringLong took 0 sec
+Testcase: testToLongStrict took 0 sec
+Testcase: testToFloatString took 0 sec
+Testcase: testToFloatStringFloat took 0 sec
+Testcase: testToFloatStrict took 0 sec
+Testcase: testToDoubleString took 0 sec
+Testcase: testToDoubleStringDouble took 0 sec
+Testcase: testToDoubleStrict took 0 sec
+Testcase: testToShortString took 0 sec
+Testcase: testToShortStringShort took 0 sec
+Testcase: testToShortStrict took 0 sec
+Testcase: testToBigDecimalString took 0 sec
+Testcase: testToBigDecimalStringBigDecimal took 0 sec
+Testcase: testToBigDecimalStrict took 0 sec
+Testcase: testToBigIntegerString took 0 sec
+Testcase: testToBigIntegerStringBigInteger took 0 sec
+Testcase: testToBigIntegerStrict took 0 sec
+Testcase: testToByteString took 0 sec
+Testcase: testToByteStringByte took 0 sec
+Testcase: testToByteStrict took 0 sec
+Testcase: testMinLongArray took 0 sec
+Testcase: testMinIntArray took 0 sec
+Testcase: testMinInt took 0 sec
+Testcase: testMinShortArray took 0 sec
+Testcase: testMinByteArray took 0 sec
+Testcase: testMinDoubleArray took 0 sec
+Testcase: testMinFloatArray took 0 sec
+Testcase: testMaxLongArray took 0 sec
+Testcase: testMaxIntArray took 0 sec
+Testcase: testMaxInt took 0 sec
+Testcase: testMaxShortArray took 0 sec
+Testcase: testMaxByteArray took 0 sec
+Testcase: testMaxDoubleArray took 0 sec
+Testcase: testMaxFloatArray took 0 sec
+Testcase: testToIntArray took 0 sec

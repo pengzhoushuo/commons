@@ -1,0 +1,11 @@
+Testsuite: com.upeng.commons.test.collections.ArrayStackTestCase
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testArrayStack took 0 sec
+Testcase: testArrayStackInt took 0 sec
+Testcase: testEmpty took 0 sec
+Testcase: testPeek took 0 sec
+Testcase: testPeekInt took 0 sec
+Testcase: testPop took 0 sec
+Testcase: testPush took 0 sec
+Testcase: testSearch took 0 sec

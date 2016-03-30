@@ -1,0 +1,21 @@
+Testsuite: com.upeng.commons.test.orm.TableTestCase
+Tests run: 10, Failures: 1, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testGetInsertSql took 0 sec
+Testcase: testGetDeleteSql took 0 sec
+Testcase: testGetDeleteByIdSql took 0 sec
+Testcase: testGetUpdateSql took 0 sec
+Testcase: testGetCountSql took 0 sec
+	FAILED
+null expected:<SELECT COUNT[ ](*) FROM COMMENT> but was:<SELECT COUNT[](*) FROM COMMENT>
+junit.framework.ComparisonFailure: null expected:<SELECT COUNT[ ](*) FROM COMMENT> but was:<SELECT COUNT[](*) FROM COMMENT>
+	at com.upeng.commons.test.orm.TableTestCase.testGetCountSql(Unknown Source)
+	at org.eclipse.ant.internal.ui.antsupport.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:32)
+	at org.eclipse.ant.internal.ui.antsupport.InternalAntRunner.run(InternalAntRunner.java:423)
+	at org.eclipse.ant.internal.ui.antsupport.InternalAntRunner.main(InternalAntRunner.java:137)
+
+Testcase: testGetListSql took 0 sec
+Testcase: testGetListByIdSql took 0 sec
+Testcase: testGetIdColumn took 0 sec
+Testcase: testGetIdField took 0 sec
+Testcase: testGetTableName took 0 sec

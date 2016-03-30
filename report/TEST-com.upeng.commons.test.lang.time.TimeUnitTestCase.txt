@@ -1,0 +1,11 @@
+Testsuite: com.upeng.commons.test.lang.time.TimeUnitTestCase
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testAddDayInt took 0 sec
+Testcase: testAddDayDateInt took 0 sec
+Testcase: testAddHourInt took 0 sec
+Testcase: testAddHourDateInt took 0 sec
+Testcase: testAddMinuteInt took 0 sec
+Testcase: testAddMinuteDateInt took 0 sec
+Testcase: testAddSecondInt took 0 sec
+Testcase: testAddSecondDateInt took 0 sec

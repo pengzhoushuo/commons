@@ -1,0 +1,11 @@
+com.upeng.commons.beans
+com.upeng.commons.collections
+com.upeng.commons.configuration
+com.upeng.commons.io
+com.upeng.commons.lang
+com.upeng.commons.lang.builder
+com.upeng.commons.lang.encrypt
+com.upeng.commons.lang.time
+com.upeng.commons.net
+com.upeng.commons.sql
+com.upeng.commons.text
